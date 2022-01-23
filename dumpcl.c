@@ -1,3 +1,4 @@
+// dumpcl from https://stackoverflow.com/questions/7892955/how-can-i-test-for-opencl-compatibility
 // clang -framework OpenCL dumpcl.c -o dumpcl && ./dumpcl
 
 #include <stdio.h>
